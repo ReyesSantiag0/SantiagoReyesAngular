@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Master of Puppets",
+      "album": "Master of Puppets",
+      "cover": "https://jenesaispo.com/wp-content/uploads/guette_onelova.jpg",
+
+      "artist": {
+        "name": "David Guetta",
+        "nickname": "David Guetta",
+        "nationality": "France"
+      },
+
+      "duration": {
+        "start": 0,
+        "and": 333
+      },
+
+      "url": "http://localhost:3000/track.mp3"
+    },
+
+    {
+      "id": 2,
+      "name": "Amé",
+      "album": "Mov Rap and Reggae",
+      "cover": "https://jenesaispo.com/wp-content/uploads/movimiento_original_ame.jpg",
+
+      "artist": {
+        "name": "Movimiento Original and Sir Samuel",
+        "nickname": "Movimiento Original and Sir Samuel",
+        "nationality": "Chile and Francia"
+      },
+
+      "duration": {
+        "start": 0,
+        "and": 333
+      },
+
+      "url": "http://localhost:3000/track.mp3"
+    }
+  ]
+}

@@ -1,1 +1,30 @@
 /* You can add global styles to this file, and also import other style files */
+:root {
+  --color-1: #0079f0;
+  --color-2: #f05d00;
+  --color-3: #dff2a7;
+  --color-4: #dc143c;
+  --color-5: #f0ae00;
+
+  --font-size-1: 1rem;
+  --font-size-2: 1.2rem;
+
+  --shadow-1: rgb(0 0 0/40%) opx 8px 24px;
+  --sombra-2: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+  --border-radiues-1: 0.25rem;
+  --border-radius-2: 0.5rem;
+
+  --font-family-1: "Poppins", sans serif;
+  --animation-1: 200ms;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--color-2);
+  font-family: var(--font-family-1);
+  font-size: var(--font-size-1);
+  color: var(--color-4);
+}
